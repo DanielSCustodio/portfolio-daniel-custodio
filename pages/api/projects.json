@@ -15,13 +15,31 @@
     "tags": ["html", "css", "wordpress"],
     "demo": "https://mannobra.com.br/"
   },
+
+  {
+    "id": 37,
+    "name": "Dona de Loja",
+    "image": "https://i.postimg.cc/bYM4jHgp/ourolist.webp",
+    "description": "Landing page  com foco em conversão  para o projeto Trimestre de Ouro, da cliente Dona de Loja. O projeto foi estruturado para destacar a proposta de valor do produto.",
+    "tags": ["html", "css", "wordpress"],
+    "demo": "https://donadeloja.com/"
+  },
   {
     "id": 31,
     "name": ".ArchRio Arquitetura",
     "image": "https://i.postimg.cc/BvQ8xqqS/arch.webp",
-    "description": "Site institucional com blog, projetado para apresentar portfólio, conteúdos técnicos e atualizações de uma empresa de arquitetura(em fase de implementação).",
+    "description": "Site institucional com blog, projetado para apresentar portfólio, conteúdos técnicos e atualizações de uma empresa de arquitetura, a ArchRio Arquitetura",
     "tags": ["html", "css", "wordpress"],
-    "demo": "https://archrio.mannobra.com.br/ "
+    "demo": "https://archrio.com.br/ "
+  },
+
+  {
+    "id": 36,
+    "name": "karine Taroco - Fonoaudióloga",
+    "image": "https://i.postimg.cc/XY0jn08L/Favicon.webp",
+    "description": "Landing page para Karine Taroco, fonoaudióloga, com foco na conversão de agendamentos. O projeto foi pensado para evidenciar a expertise da profissional.",
+    "tags": ["html", "css", "wordpress"],
+    "demo": "https://karinetaroco.com.br/ "
   },
   {
     "id": 18,
